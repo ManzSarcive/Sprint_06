@@ -60,27 +60,27 @@ if(isset($_POST['submit'])){
 
   <div class="mb-3">
     <label>name</label>
-    <input type="text" class="form-control" placeholder='Enter the name of the product...' name='name' value=<?php echo $name;?>>
+    <input type="text" class="form-control"  name='name' value=<?php echo $name;?>>
   </div>
 
   <div class="mb-3">
     <label>Description</label>
-    <input type="text" class="form-control" placeholder='Enter the description of the product...' name='descrip' value=<?php echo $descrip;?>>
+    <textarea class="form-control" name='descrip' > <?php echo $descrip;?></textarea>
   </div>
 
   <div class="mb-3">
     <label>Buying price</label>
-    <input type="text" class="form-control" placeholder='Enter the buying price...' name='prixachat' value=<?php echo $prixachat;?>>
+    <input type="text" class="form-control"  name='prixachat' value=<?php echo $prixachat;?>>
   </div>
 
   <div class="mb-3">
     <label>Selling price</label>
-    <input type="text" class="form-control" placeholder='Enter the selling...' name='prixvente' value=<?php echo $prixvente;?>>
+    <input type="text" class="form-control"  name='prixvente' value=<?php echo $prixvente;?>>
   </div>
     
   <div class="mb-3">
     <label>Stock</label>
-    <input type="text" class="form-control" placeholder='Enter the number of stock...' name='stock' value=<?php echo $stock;?>>
+    <input type="text" class="form-control"  name='stock' value=<?php echo $stock;?>>
   </div>
 
 
