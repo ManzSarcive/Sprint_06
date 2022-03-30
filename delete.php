@@ -1,15 +1,14 @@
 <?php
 include 'connect.php';
-if(isset($_GET['deleteid'])){
-    $id=$_GET['deleteid'];
+if (isset($_GET['deleteid'])) {
+    $id = $_GET['deleteid'];
 
-    $sql="delete from `vapfactory` where id=$id";
-    $result=mysqli_query($con, $sql);
-    if($result){
+    $sql = "delete from `vapfactory` where id=$id";
+    $result = mysqli_query($con, $sql);
+    if ($result) {
         // echo "deleted successfull";
         header('location:display.php');
-    }else{
+    } else {
         die(mysqli_error($con));
     }
 }
-?>
