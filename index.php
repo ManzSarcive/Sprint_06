@@ -36,6 +36,7 @@ if(isset($_POST['submit'])){
 
     <title>Ajouter Vapoteuse</title>
     <link rel="icon" type="image/x-icon" href="logo-vectoriel-vape-store_10051-138.webp">
+    <link rel="stylesheet" href="index.css">
   </head>
   <body>
     
@@ -62,32 +63,32 @@ if(isset($_POST['submit'])){
 
 
     <label>Reference</label>
-    <input type="text" class="form-control" placeholder='Enter the reference of the product...' name='reference'>
+    <input type="text" class="form-control" placeholder='Enter the reference of the product...' name='reference' required>
   </div>
 
   <div class="mb-3">
     <label>name</label>
-    <input type="text" class="form-control" placeholder='Enter the name of the product...' name='name'>
+    <input type="text" class="form-control" placeholder='Enter the name of the product...' name='name' required>
   </div>
 
   <div class="mb-3">
     <label>Description</label>
-    <input type="text" class="form-control" placeholder='Enter the description of the product...' name='descrip'>
+    <input type="text" class="form-control" placeholder='Enter the description of the product...' name='descrip' required>
   </div>
 
   <div class="mb-3">
     <label>Buying price</label>
-    <input type="text" class="form-control" placeholder='Enter the buying price...' name='prixachat'>
+    <input type="text" class="form-control" placeholder='Enter the buying price...' name='prixachat' required>
   </div>
 
   <div class="mb-3">
     <label>Selling price</label>
-    <input type="text" class="form-control" placeholder='Enter the selling...' name='prixvente'>
+    <input type="text" class="form-control" placeholder='Enter the selling...' name='prixvente' required>
   </div>
     
   <div class="mb-3">
     <label>Stock</label>
-    <input type="text" class="form-control" placeholder='Enter the number of stock...' name='stock'>
+    <input type="text" class="form-control" placeholder='Enter the number of stock...' name='stock' required>
   </div>
 
 
