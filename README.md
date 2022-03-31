@@ -4,7 +4,7 @@
 Pour lancer mon site veuillez cliquez sur le ce lien [begue-thomas.sprint-06.sc1lgvu9627.universe.wf](http://begue-thomas.sprint-06.sc1lgvu9627.universe.wf/)
 
 
-User Story :
+**User Story** :
 
   En tant que client je veux un système de gestion des stocks pour pouvoir visualiser les stocks de ses cigarettes électroniques et de ses e-liquides.
   
