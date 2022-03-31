@@ -3,10 +3,12 @@
 
 Pour lancer mon site veuillez cliquez sur le ce lien [begue-thomas.sprint-06.sc1lgvu9627.universe.wf](http://begue-thomas.sprint-06.sc1lgvu9627.universe.wf/)
 
+Mon site est héberger sur la plateforme [o2switch](https://kip.o2switch.net:2083/)
+
 
 **User Story** :
 
-  - En tant que client je veux un système de gestion des stocks afin de pouvoir visualiser les stocks de ses cigarettes électroniques et de ses e-liquides.
+  - En tant que client je veux un système de gestion des stocks afin de pouvoir visualiser les stocks de mes cigarettes électroniques et de mes e-liquides.
   
   - En tant que client je veux pouvoir ajouter une nouvelle vapoteuse ou un nouveau e-liquide.
   
