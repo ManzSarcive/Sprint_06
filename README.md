@@ -1,7 +1,7 @@
 # Sprint_06
 
 
-Pour lancer mon site veuillez cliquez sur le ce lien [begue-thomas.sprint-06.sc1lgvu9627.universe.wf](http://begue-thomas.sprint-06.sc1lgvu9627.universe.wf/)
+**Pour lancer mon site** veuillez cliquez sur le ce lien [begue-thomas.sprint-06.sc1lgvu9627.universe.wf](http://begue-thomas.sprint-06.sc1lgvu9627.universe.wf/)
 
 Mon site est héberger sur la plateforme [o2switch](https://kip.o2switch.net:2083/)
 
